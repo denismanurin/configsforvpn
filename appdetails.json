@@ -1,5 +1,5 @@
 {
-  "ads":"true",
+  "ads":"false",
   "update":[{
     "version":"2.8.2000",
     "title":"Do you like this VPN app? Check the source code!",
@@ -9,7 +9,7 @@
   "blocked":[
   ],
   "free":[
-    {"id":0, "file":0, "city":"Essen","country":"Germany","image":"germany","ip":"51.68.191.75","active":"true","signal":"a"},
+    {"id":0, "file":0, "city":"Argentina","country":"Argentina","image":"argentina","ip":"170.51.109.52","active":"true","signal":"a"},
     {"id":1, "file":0, "city":"Luxemburg","country":"Germany","image":"luxemburg","ip":"51.68.191.75","active":"true","signal":"b"},
     {"id":2, "file":1, "city":"Las Vegas","country":"United States","image":"unitedstates","ip":"205.185.119.100","active":"true","signal":"c"},
     {"id":3, "file":1, "city":"Bangkok","country":"United States","image":"thailand","ip":"205.185.119.100","active":"true","signal":"c"},
